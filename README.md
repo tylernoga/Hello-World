@@ -9,7 +9,7 @@
 ## Project Title
 Hello World Sample
 ## Description
-Look over the two links provided in depthly to learn how github works. Look up examples projects to help you gain knowledge.
+This is a quick intro to GitHub and the first example of using it.
 ## How to Run Program
 - Couldn't run the program if needed
 ## Files Used
